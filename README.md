@@ -15,9 +15,12 @@ To use the smooth_knn_dist function, you need to have the following dependencies
 1. Python 3.x
 2. NumPy
 3. Numba
+
 You can install the required dependencies using pip:
 
 pip install numpy
+
+pip install numba
 
 ## Contributing
 
