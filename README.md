@@ -12,8 +12,9 @@ Scalability to handle high-dimensional datasets with a large number of features.
 
 To use the smooth_knn_dist function, you need to have the following dependencies installed:
 
-Python 3.x
-NumPy
+1. Python 3.x
+2. NumPy
+3. Numba
 You can install the required dependencies using pip:
 
 pip install numpy
